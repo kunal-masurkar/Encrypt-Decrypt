@@ -45,6 +45,10 @@ If you don’t have a key, generate one by running the script and selecting `yes
 3. Provide the path to the encrypted file (`.enc`).
 4. The original file will be restored.
 
+## Output
+![image](https://github.com/user-attachments/assets/a8adba89-da03-456e-8e42-c465bf4d197c)
+
+
 ## License
 This project is licensed under the MIT License.
 
