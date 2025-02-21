@@ -16,8 +16,8 @@ A Python-based utility for encrypting and decrypting files using the **Fernet** 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kunal-masurkar/file-encryption-tool.git
-   cd file-encryption-tool
+   git clone https://github.com/kunal-masurkar/Encrypt-Decrypt.git
+   cd Encrypt-Decrypt
    ```
 2. Install dependencies:
    ```sh
@@ -25,7 +25,7 @@ A Python-based utility for encrypting and decrypting files using the **Fernet** 
    ```
 3. Run the script:
    ```sh
-   python encryptor.py
+   python file_encryptor.py
    ```
 
 ## Usage
